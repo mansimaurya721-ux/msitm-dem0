@@ -1,2 +1,2 @@
-# msitm-dem0
+# msitm-demo
 this is my first git repository
